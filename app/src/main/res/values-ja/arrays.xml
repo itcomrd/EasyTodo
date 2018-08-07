@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_array">
+        <item>30分</item>
+        <item>60分</item>
+        <item>90分</item>
+        <item>120分</item>
+        <item>150分</item>
+        <item>180分</item>
+        <item>210分</item>
+        <item>240分</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="no_permition">カレンダーへのアクセスが拒否されています</string>
+    <string name="DatepickerTitle">予定を入れる日を選択してください</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="TimepickerTitle">予定開始時間を入れてください</string>
+    <string name="text1">予定の継続時間：</string>
+    <string name="text5">カレンダー選択：</string>
+    <string name="text2">タイトル：</string>
+    <string name="text3">場所：</string>
+    <string name="text4">詳細：</string>
+    <string name="Button1">カレンダーに登録</string>
+
+    <string name="eula_title">ソフトウェア利用許諾への同意</string>
+    <string name="eula_agree">同意</string>
+    <string name="eula_disagree">不同意</string>
+    <string name="eula_developer_name">情報通信Ｒ＆Ｄ</string><!-- assigned to %2$s -->
+    <string name="eula_message">
+アプリケーション : %1$s\n
+開発者 : %2$s\n
+保証の免責：\n
+プログラムの保証はありません。 著作権保持者は、明示または黙示のいかなる保証もなく、現状有姿のままプログラムを「現状のまま」提供します。 プログラムの品質と性能に関するすべてのリスクは使用者にあります。\n
+合意管轄裁判所：\n
+日本の法律と開発者の住所により決まります\n
+    </string>
+</resources>

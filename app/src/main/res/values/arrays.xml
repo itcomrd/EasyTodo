@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_array">
+        <item>30 minutes</item>
+        <item>60 minutes</item>
+        <item>90 minutes</item>
+        <item>120 minutes</item>
+        <item>150 minutes</item>
+        <item>180 minutes</item>
+        <item>210 minutes</item>
+        <item>240 minutes</item>
+    </string-array>
+</resources>

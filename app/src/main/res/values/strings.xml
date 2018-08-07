@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Easy ToDo</string>
+    <string name="no_permition">You do not permit to access calender</string>
+    <string name="DatepickerTitle">Input ToDo date.</string>
+    <string name="TimepickerTitle">Input ToDo start time.</string>
+    <string name="Cancel">Cancel</string>
+    <string name="text1">ToDo Duration:</string>
+    <string name="text5">Calendar:</string>
+    <string name="text2">Title:</string>
+    <string name="text3">Location:</string>
+    <string name="text4">Description:</string>
+    <string name="Button1">Register to calendar</string>
+    <string name="eula_is_agreed_key">end_user_license_agreement_is_agreed</string>
+    <string name="eula_title">License agreement</string>
+    <string name="eula_agree">Agree</string>
+    <string name="eula_disagree">Disagree</string>
+    <string name="eula_developer_name">Intelligence communication R&amp;D Japan</string><!-- assigned to %2$s -->
+    <string name="eula_message">
+Application name : %1$s\n
+Developer name : %2$s\n
+Disclaimer of Warranty.\n
+There is no warranty for the program. The copyright holder provide the program “as is” without warranty of any kind, either expressed or implied, including. the entire risk as to the quality and performance of the program is with you.\n
+Agreed jurisdiction:\n
+It depends on the Japanese domestic law and the address of the developer.\n
+</string>
+</resources>
